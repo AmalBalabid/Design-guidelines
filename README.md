@@ -6,11 +6,11 @@ In this repository, we provide a review of studies in cognition-related guidelin
 Based on the review of 48 studies, the authors elicited validated guidelines and recommendations targeting older people. In the primary search, 48 studies were reviewed and identified 46 targeting older people. In the next step, a full article analysis was performed and excluded 10 articles that did not contain actual guidelines or recommendations. This phase resulted in 36 articles marked as containing guidelines or recommendations for older people. 
 As a final step, all studies that contained invalidated guidelines or recommendations were excluded, resulting in 17 articles. The final set of 17 articles was reviewed and analyzed to extract guidelines and recommendations. 
 
-A total of 63 [guidelines](#Guidelines) were extracted from the 17 [studies](#Guidelines) and classified according to the cognitive attribute taxonomy related to designing UI for older people [[18](https://dl.acm.org/doi/fullHtml/10.1145/512526.512528)]. 
+A total of 63 [guidelines](#Guidelines) were extracted from the 17 [studies](#Guidelines) and classified according to the cognitive attribute taxonomy related to designing UI for older people [[paper](https://dl.acm.org/doi/fullHtml/10.1145/512526.512528)]. 
 
 The PRISMA flow diagram below illustrates the process followed when reviewing articles to select the relevant studies.
 
-![Alt text](PARSIMA.png "PRISMA flow diagram") 
+<img src="PARSIMA.png" width="80%">
 
 Studies such as [[paper](https://doi.org/10.1109/ACCESS.2019.2898467)] and [[paper](https://doi.org/10.1007/978-3-030-23570-3_31)] have provided different taxonomies to classify design guidelines. Nonetheless, there is no standard or widely recognized taxonomy.
 
