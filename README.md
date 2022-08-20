@@ -10,7 +10,7 @@ A total of 63 [guidelines](#Guidelines) were extracted from the 17 [studies](#Gu
 
 The PRISMA flow diagram below illustrates the process followed when reviewing articles to select the relevant studies.
 
-<img src="PARSIMA.png" width="80%">
+<img src="PRISMA.png" width="80%">
 
 Studies such as [[paper](https://doi.org/10.1109/ACCESS.2019.2898467)] and [[paper](https://doi.org/10.1007/978-3-030-23570-3_31)] have provided different taxonomies to classify design guidelines. Nonetheless, there is no standard or widely recognized taxonomy.
 
